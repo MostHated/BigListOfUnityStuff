@@ -49,7 +49,7 @@
 <td>This adds additional functionality through components and helpers within Unity such as a NetworkManager prefab making it more familiar to those used to UNet</td>
 </tr>
 </tbody>
-</table><h2 id="scripting">Scripting</h2>
+</table><h2 id="scripting--code">Scripting / Code</h2>
 <h4 id="ecsjob-system">ECS/Job System</h4>
 
 <table>
