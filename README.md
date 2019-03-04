@@ -19,8 +19,8 @@
 <tr>
 <td><a href="https://alexknowles.info/unity/build-release-unity-games-with-azure-devops/">AZURE DEVOPS</a></td>
 <td>Build &amp; release Unity games with using Azure DevOps</td>
-<td>Alex Knowles</td>
-<td></td>
+<td><a href="https://alexknowles.info/#section-about">Alex Knowles</a></td>
+<td>It looks like a bit of this could also carry over to other VPS providers such as DO, AWS, GCP</td>
 </tr>
 </tbody>
 </table><h2 id="networking">Networking</h2>
