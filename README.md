@@ -125,6 +125,12 @@
 </thead>
 <tbody>
 <tr>
+<td><a href="https://github.com/sigtrapgames/SmartData">SmartData</a></td>
+<td>A designer-friendly, editor-driven Unity3D framework for connecting data and events.</td>
+<td><a href="https://github.com/sigtrapgames">sigtrapgames</a></td>
+<td>Based on Ryan Hipple’s (<a href="https://twitter.com/roboryantron">twitter</a> :  <a href="https://github.com/roboryantron">github</a>) talk from Unite Austin 2017</td>
+</tr>
+<tr>
 <td><a href="https://github.com/Fydar/RPGCore">RPGCore</a></td>
 <td>RPGCore is a framework for producing RPG games and mechanics in Unity.</td>
 <td><a href="https://github.com/Fydar">Fydar</a></td>
