@@ -131,7 +131,27 @@
 <td>WIP but looks very promising to offer easy to use and implement network capable RPG mechanics through a visual/recipe type system</td>
 </tr>
 </tbody>
-</table><blockquote>
+</table><h4 id="tools--extension-methods">Tools / Extension Methods</h4>
+
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Description</th>
+<th>Author/Credit</th>
+<th>Personal Note</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/Deadcows/MyBox">MyBox</a></td>
+<td>MyBox is a set of attributes, tools and extensions for Unity</td>
+<td><a href="http://deadcow.ru/">deadcows</a></td>
+<td></td>
+</tr>
+</tbody>
+</table><hr>
+<blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
 
