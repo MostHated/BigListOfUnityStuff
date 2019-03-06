@@ -155,6 +155,12 @@
 <td><a href="http://deadcow.ru/">deadcows</a></td>
 <td></td>
 </tr>
+<tr>
+<td><a href="https://github.com/rocktavious/UIEX">UIElementsX</a></td>
+<td>UIElementsX (UIEX) is the missing high level API for unity’s new UI system</td>
+<td><a href="https://github.com/rocktavious">rocktavious</a></td>
+<td></td>
+</tr>
 </tbody>
 </table><hr>
 <blockquote>
