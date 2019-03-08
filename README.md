@@ -31,17 +31,11 @@
 <tr>
 <th>Name</th>
 <th>Description</th>
-<th>Author/Credit</th>
-<th>Personal Note</th>
+<th>Credit</th>
+<th>Note</th>
 </tr>
 </thead>
 <tbody>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr>
 <td><a href="https://github.com/jeffvella/UnityNativeCollision">UnityNativeCollision</a></td>
 <td>SAT Collision in C# for Unity3D Burst Compiler</td>
@@ -56,8 +50,8 @@
 <tr>
 <th>Name</th>
 <th>Description</th>
-<th>Author/Credit</th>
-<th>Personal Note</th>
+<th>Credit</th>
+<th>Note</th>
 </tr>
 </thead>
 <tbody>
@@ -81,8 +75,8 @@
 <tr>
 <th>Name</th>
 <th>Description</th>
-<th>Author/Credit</th>
-<th>Personal Note</th>
+<th>Credit</th>
+<th>Note</th>
 </tr>
 </thead>
 <tbody>
@@ -100,8 +94,8 @@
 <tr>
 <th>Name</th>
 <th>Description</th>
-<th>Author/Credit</th>
-<th>Personal Note</th>
+<th>Credit</th>
+<th>Note</th>
 </tr>
 </thead>
 <tbody>
@@ -119,8 +113,8 @@
 <tr>
 <th>Name</th>
 <th>Description</th>
-<th>Author/Credit</th>
-<th>Personal Note</th>
+<th>Credit</th>
+<th>Note</th>
 </tr>
 </thead>
 <tbody>
@@ -144,8 +138,8 @@
 <tr>
 <th>Name</th>
 <th>Description</th>
-<th>Author/Credit</th>
-<th>Personal Note</th>
+<th>Credit</th>
+<th>Note</th>
 </tr>
 </thead>
 <tbody>
