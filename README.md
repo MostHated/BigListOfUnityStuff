@@ -161,6 +161,12 @@
 <td><a href="https://github.com/rocktavious">rocktavious</a></td>
 <td></td>
 </tr>
+<tr>
+<td><a href="https://github.com/kolodi/UnityOpenApi">UnityOpenApi</a></td>
+<td>Unity OpenAPI parser and assets generator</td>
+<td><a href="https://github.com/kolodi">kolodi</a></td>
+<td></td>
+</tr>
 </tbody>
 </table><hr>
 <blockquote>
