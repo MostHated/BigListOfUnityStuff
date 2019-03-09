@@ -144,6 +144,12 @@
 </thead>
 <tbody>
 <tr>
+<td><a href="https://github.com/Demigiant/demilib">demilib</a></td>
+<td>A library of various utilities and tools for Unity</td>
+<td><a href="https://github.com/Demigiant">Demigiant</a></td>
+<td>Some of these look quite useful for custom editors</td>
+</tr>
+<tr>
 <td><a href="https://github.com/Deadcows/MyBox">MyBox</a></td>
 <td>MyBox is a set of attributes, tools and extensions for Unity</td>
 <td><a href="http://deadcow.ru/">deadcows</a></td>
@@ -162,7 +168,20 @@
 <td></td>
 </tr>
 </tbody>
-</table><hr>
+</table><h4 id="vfx--shaders">VFX / Shaders</h4>
+
+<table>
+<thead>
+<tr>
+<th>Name</th>
+<th>Description</th>
+<th>Credit</th>
+<th>Note</th>
+</tr>
+</thead>
+<tbody></tbody>
+</table><p>| <a href="https://github.com/knapeczadam/Unity-Shaders">Unity-Shaders</a> |Shader demo - More than 300 examples |<a href="https://github.com/knapeczadam">knapeczadam</a> |</p>
+<hr>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
